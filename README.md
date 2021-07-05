@@ -1,4 +1,4 @@
-# personalwebsite
+# Tom Robertson Site
 
 ## Project setup
 ```
