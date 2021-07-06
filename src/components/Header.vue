@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <br>
-    <p class="h2">Tom Robertson</p>
+    <p class="h1">Tom Robertson</p>
     <small class="text-muted">Newcastle University Masters Student</small>
     <br>
     <br>
@@ -20,7 +20,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .header {
-  background-color: #58cbee;
+  background-color: #8de1fa;
   padding-top: 20px;
   padding-bottom: 20px;
 }
