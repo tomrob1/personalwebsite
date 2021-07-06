@@ -20,6 +20,8 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .header {
-  background-color: #D3D3D3;
+  background-color: #58cbee;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 </style>
