@@ -1,19 +1,14 @@
 <template>
   <div class="header">
-    <br>
     <p class="h1">Tom Robertson</p>
     <small class="text-muted">Newcastle University Masters Student</small>
-    <br>
     <br>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Header',
-  props: {
-    msg: String
-  }
+  name: 'Header'
 }
 </script>
 
